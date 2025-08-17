@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS ExceptionsLog (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    ts_utc TEXT NOT NULL,
+    type TEXT NOT NULL,
+    message TEXT NOT NULL,
+    location TEXT NOT NULL
+);
