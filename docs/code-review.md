@@ -5,10 +5,7 @@ layout: default
 
 # Informal Code Review (Pre-Enhancement)
 
-<video width="800" controls>
-  <source src="../assets/video/code-review.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**Video:** [Download and watch the code review](../assets/video/code-review.mp4)
 
 ## Overview
 This code review walks through the original version of my artifact, highlighting its existing functionality, areas for improvement, and planned enhancements.
