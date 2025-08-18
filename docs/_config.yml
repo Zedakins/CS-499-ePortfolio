@@ -1,11 +1,13 @@
 title: "Zainab Lowe — CS 499 ePortfolio"
 description: "SNHU Computer Science Capstone"
-theme: jekyll-theme-cayman
 
-# If this repo is named yourusername.github.io, leave baseurl: ""
-# Otherwise set it to "/YourRepoName"
+# Use the official Cayman remote theme
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
 baseurl: "/CS-499-ePortfolio"
-url: "https://Zedakins.github.io"
+url: "https://zedakins.github.io"
 
 header_pages:
   - index.md
