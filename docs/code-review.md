@@ -5,7 +5,7 @@ layout: default
 
 # Informal Code Review (Pre-Enhancement)
 
-**Video:** [Download and watch the code review](../assets/video/code-review.mp4)
+**Video:** [Download and watch the code review](https://github.com/Zedakins/CS-499-ePortfolio/tree/main/docs/assets/video/code-review.mp4)
 
 ## Overview
 This code review walks through the original version of my artifact, highlighting its existing functionality, areas for improvement, and planned enhancements.
