@@ -1,0 +1,13 @@
+title: "Zainab Lowe — CS 499 ePortfolio"
+description: "SNHU Computer Science Capstone"
+theme: jekyll-theme-cayman
+
+# If this repo is named yourusername.github.io, leave baseurl: ""
+# Otherwise set it to "/YourRepoName"
+baseurl: "/CS-499-ePortfolio"
+url: "https://Zedakins.github.io"
+
+header_pages:
+  - index.md
+  - code-review.md
+  - artifacts/exceptions.md
