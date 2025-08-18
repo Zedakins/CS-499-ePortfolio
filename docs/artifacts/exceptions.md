@@ -5,8 +5,8 @@ layout: default
 
 # Artifact — Exceptions (C++)
 
-**Original (before):** See [/original_artifact](../original_artifact) in this repo  
-**Enhanced (after):** See [/enhanced_artifact](../enhanced_artifact) in this repo  
+**Original (before):** https://github.com/Zedakins/CS-499-ePortfolio/tree/main/original_artifact
+**Enhanced (after):** https://github.com/Zedakins/CS-499-ePortfolio/tree/main/enhanced_artifact 
 
 ## Brief Description
 The artifact began as a single-file C++ program (`Exceptions.cpp`) that demonstrated exception handling, including custom exceptions, standard exceptions, and division-by-zero detection. It was later enhanced into a modular, testable, and persistent application.
