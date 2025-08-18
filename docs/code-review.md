@@ -3,6 +3,8 @@ title: "Code Review Video"
 layout: default
 ---
 
+{% include nav.html %}
+
 # Informal Code Review (Pre-Enhancement)
 
 **Video:** [Download and watch the code review](https://github.com/Zedakins/CS-499-ePortfolio/tree/main/docs/assets/video/code-review.mp4)

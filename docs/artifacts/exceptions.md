@@ -3,6 +3,8 @@ title: "Artifact — Exceptions (C++)"
 layout: default
 ---
 
+{% include nav.html %}
+
 # Artifact — Exceptions (C++)
 
 **Original (before):** [Go to Original Artifact](https://github.com/Zedakins/CS-499-ePortfolio/tree/main/original_artifact)

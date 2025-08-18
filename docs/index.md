@@ -3,6 +3,8 @@ title: "Professional Self-Assessment"
 layout: default
 ---
 
+{% include nav.html %}
+
 # Professional Self-Assessment
 
 Completing the Computer Science program and developing this ePortfolio has been a transformative experience that not only strengthened my technical expertise but also shaped my professional identity, values, and career goals. This body of work represents a culmination of years of learning, practice, and reflection, and it demonstrates my ability to apply theoretical concepts to practical, real-world problems while adhering to professional standards of software engineering.  
